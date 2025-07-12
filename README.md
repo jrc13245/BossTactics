@@ -1,4 +1,4 @@
-# BossTactcs Addon
+# BossTactics Addon
 
 A lightweight, no-frills addon for World of Warcraft (1.12.1) that allows you to store and quickly post pre-defined boss tactics to the Raid Warning channel using simple slash commands.
 
