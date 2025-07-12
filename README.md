@@ -25,14 +25,14 @@ The core function is to post a pre-defined tactic to the **Raid Warning** channe
 
 **Examples:**
 
--   To post the "Curse" tactic for Lucifron in Molten Core:
+-   To post the Mechanics for Lucifron in Molten Core:
     ```
-    /bt "Molten Core" Lucifron Curse
+    /bt "Molten Core" Lucifron Mechanics
     ```
 
--   To post the "Phase 1" tactic for Onyxia:
+-   To post the Mechanics for Onyxia:
     ```
-    /bt "Onyxia's Lair" Onyxia "Phase 1"
+    /bt "Onyxia's Lair" Onyxia Mechanics
     ```
 
 ### Help Command
