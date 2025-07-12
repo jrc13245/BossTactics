@@ -1,11 +1,11 @@
-# BossTactics (Simple) Addon
+# BossTactcs Addon
 
 A lightweight, no-frills addon for World of Warcraft (1.12.1) that allows you to store and quickly post pre-defined boss tactics to the Raid Warning channel using simple slash commands.
 
 ## Installation
 
 1.  Navigate to your World of Warcraft installation folder.
-2.  Go into the `_classic_` -> `Interface` -> `AddOns` directory.
+2.  Go into the `WoW` -> `Interface` -> `AddOns` directory.
 3.  Place the `BossTactics` folder directly into the `AddOns` folder.
 4.  Restart World of Warcraft completely.
 
