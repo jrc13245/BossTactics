@@ -61,14 +61,3 @@ BossTactics.Data = {
         },
     },
 };
-Adding a New TacticTo add a new tactic, simply copy and paste an existing line or block and change the names and message.Example: Adding a new "Whelps" tactic for Vaelastrasz in BWL.Find the BossTactics.Data table in BossTactics_data.lua.Add a new entry for "Blackwing Lair".-- Find this closing bracket and comma:
-    }, -- This closes Onyxia's Lair
-
--- Add your new raid data after it:
-    ["Blackwing Lair"] = {
-        ["Vaelastrasz the Corrupt"] = {
-            ["Burning Adrenaline"] = "Stop all actions when you have Burning Adrenaline!",
-            ["Whelps"] = "AOE the whelps as soon as they spawn.",
-        },
-    },
-Save the BossTactics_data.lua file.In World of Warcraft, type /reload in the chat.You can now use your new command:`/bt "Blackwing Lair" "Vaelastrasz
